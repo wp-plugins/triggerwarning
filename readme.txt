@@ -1,6 +1,6 @@
 ===Trigger Warning===
 Contributors: zingming
-Tags: trigger, trigger warning, feminism
+Tags: trigger, trigger warning, feminism, post
 Requires at least: 3.0.1
 Tested up to: 3.0.1
 Stable tag: 1.0
